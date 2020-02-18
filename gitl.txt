@@ -1,1 +1,3 @@
 learn linux
+Git is a dsitributed version control system.
+Git is free software.
